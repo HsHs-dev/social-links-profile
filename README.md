@@ -9,7 +9,7 @@ A solution to the [Social Links Profile](https://www.frontendmentor.io/challenge
 ## Screenshot
 
 <p align=center>
-    <img src="./preview.jpg">
+    <img src="./finished.png">
 </p>
 
 ## Built with
